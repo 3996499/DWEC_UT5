@@ -5,7 +5,7 @@ html, body {
         }
         body {
             font-family: Arial, sans-serif;
-            background: linear-gradient(135deg, #c8e6c9, #ffe0b2);
+            /*background: linear-gradient(135deg, #c8e6c9, #ffe0b2);*/
             text-align: center;
             margin: 0;
             padding: 50px;
